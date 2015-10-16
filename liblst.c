@@ -1,3 +1,7 @@
+/**
+ * https://github.com/zmushko/liblst
+ * use it as you want but keep this header!
+ */
 #include <stdlib.h>
 #include <errno.h>
 #include <string.h>
